@@ -29,3 +29,8 @@ We are goin gto try to convince the investors to help us with this project. The 
 
 ## Summary 
 With this we were able to visualize the peak hours and days, the gender distribution, and many other important information that will help us develop our business. I will add more data for the future, such as the age of each customer, and with this we would be able to create visualization and disribution for age. Also, we have to identified how much per month a bike needs to be fixed, in order to visualize expenses that are not taken into account. 
+
+
+Link for the Tableau Story: 
+
+https://public.tableau.com/app/profile/juan.pedro.martinez/viz/BikeRidesChallenge/NYCitiBikeStory?publish=yes
